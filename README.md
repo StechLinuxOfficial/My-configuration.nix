@@ -1,5 +1,5 @@
 # My-configuration.nix
-This is a repo where you could find my configuration.nix file. I will only store this as a backup, but it is free to be taken by other users as well! It includes lots of programs like Steam, flatpaks, GIMP, Kdenlive, etc. It may not be the best looking, but it ensures productivity and entertainment at best. Note this only works with NixOS and NixOS only.
+This is a repo where you could find my configuration.nix file. I will only store this as a backup, but it is free to be taken by other users as well! It includes lots of programs like Steam, flatpak, GIMP, Kdenlive, etc. It may not be the best looking, but it ensures productivity and entertainment at best. Note this only works with NixOS and NixOS only.
 
 
 SAYING IT AGAIN:
